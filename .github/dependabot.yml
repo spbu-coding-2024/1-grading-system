@@ -1,0 +1,18 @@
+version: 2
+registries:
+  github:
+    type: git
+    url: https://github.com
+    username: x-access-token
+    password: ${{secrets.GH_DB_TOKEN}}
+updates:
+  - package-ecosystem: "gitsubmodule"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 75
+    registries:
+      - github
+    ignore:
+      - dependency-name: "1-grading-tests"
+

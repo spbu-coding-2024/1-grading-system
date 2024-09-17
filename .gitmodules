@@ -1,0 +1,3 @@
+[submodule "1-grading-tests"]
+	path = 1-grading-tests
+	url = git@github.com:spbu-coding-2024/1-grading-tests.git
