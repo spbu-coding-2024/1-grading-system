@@ -37,3 +37,6 @@
 [submodule "1-DaryaNechaeva"]
 	path = 1-DaryaNechaeva
 	url = git@github.com:spbu-coding-2024/1-DaryaNechaeva.git
+[submodule "1-End0ra"]
+	path = 1-End0ra
+	url = git@github.com:spbu-coding-2024/1-End0ra.git
