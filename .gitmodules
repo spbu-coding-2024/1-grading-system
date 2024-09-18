@@ -58,3 +58,6 @@
 [submodule "1-MikhailSvirukov"]
 	path = 1-MikhailSvirukov
 	url = git@github.com:spbu-coding-2024/1-MikhailSvirukov.git
+[submodule "1-Egorkayka"]
+	path = 1-Egorkayka
+	url = git@github.com:spbu-coding-2024/1-Egorkayka.git
