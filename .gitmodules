@@ -22,3 +22,6 @@
 [submodule "1-alken1t15"]
 	path = 1-alken1t15
 	url = git@github.com:spbu-coding-2024/1-alken1t15.git
+[submodule "1-desiredeternity"]
+	path = 1-desiredeternity
+	url = git@github.com:spbu-coding-2024/1-desiredeternity.git
