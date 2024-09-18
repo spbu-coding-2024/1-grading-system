@@ -25,3 +25,6 @@
 [submodule "1-desiredeternity"]
 	path = 1-desiredeternity
 	url = git@github.com:spbu-coding-2024/1-desiredeternity.git
+[submodule "1-NIcolaiKl"]
+	path = 1-NIcolaiKl
+	url = git@github.com:spbu-coding-2024/1-NIcolaiKl.git
