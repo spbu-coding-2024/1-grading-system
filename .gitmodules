@@ -52,3 +52,6 @@
 [submodule "1-vlapugb"]
 	path = 1-vlapugb
 	url = git@github.com:spbu-coding-2024/1-vlapugb.git
+[submodule "1-semrosin"]
+	path = 1-semrosin
+	url = git@github.com:spbu-coding-2024/1-semrosin.git
