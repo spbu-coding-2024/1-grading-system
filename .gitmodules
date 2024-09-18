@@ -10,3 +10,6 @@
 [submodule "1-Drenger"]
 	path = 1-Drenger
 	url = git@github.com:spbu-coding-2024/1-Drenger.git
+[submodule "1-Stepiiiiiiik"]
+	path = 1-Stepiiiiiiik
+	url = git@github.com:spbu-coding-2024/1-Stepiiiiiiik.git
