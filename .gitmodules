@@ -40,3 +40,6 @@
 [submodule "1-End0ra"]
 	path = 1-End0ra
 	url = git@github.com:spbu-coding-2024/1-End0ra.git
+[submodule "1-XRenso"]
+	path = 1-XRenso
+	url = git@github.com:spbu-coding-2024/1-XRenso.git
