@@ -28,3 +28,6 @@
 [submodule "1-NIcolaiKl"]
 	path = 1-NIcolaiKl
 	url = git@github.com:spbu-coding-2024/1-NIcolaiKl.git
+[submodule "1-d031273"]
+	path = 1-d031273
+	url = git@github.com:spbu-coding-2024/1-d031273.git
