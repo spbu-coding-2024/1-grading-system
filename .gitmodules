@@ -97,3 +97,6 @@
 [submodule "1-g4rry1"]
 	path = 1-g4rry1
 	url = git@github.com:spbu-coding-2024/1-g4rry1.git
+[submodule "1-ArsenijRomanov"]
+	path = 1-ArsenijRomanov
+	url = git@github.com:spbu-coding-2024/1-ArsenijRomanov.git
