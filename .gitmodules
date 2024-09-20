@@ -112,3 +112,6 @@
 [submodule "1-Galay-Nastya"]
 	path = 1-Galay-Nastya
 	url = git@github.com:spbu-coding-2024/1-Galay-Nastya.git
+[submodule "1-K1mer0"]
+	path = 1-K1mer0
+	url = git@github.com:spbu-coding-2024/1-K1mer0.git
