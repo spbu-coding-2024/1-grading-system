@@ -94,3 +94,6 @@
 [submodule "1-fUS1ONd"]
 	path = 1-fUS1ONd
 	url = git@github.com:spbu-coding-2024/1-fUS1ONd.git
+[submodule "1-g4rry1"]
+	path = 1-g4rry1
+	url = git@github.com:spbu-coding-2024/1-g4rry1.git
