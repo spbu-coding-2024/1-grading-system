@@ -106,3 +106,6 @@
 [submodule "1-Daniil-Chepurnikh"]
 	path = 1-Daniil-Chepurnikh
 	url = git@github.com:spbu-coding-2024/1-Daniil-Chepurnikh.git
+[submodule "1-neepii"]
+	path = 1-neepii
+	url = git@github.com:spbu-coding-2024/1-neepii.git
