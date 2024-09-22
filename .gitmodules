@@ -118,3 +118,6 @@
 [submodule "1-MaksimGSI"]
 	path = 1-MaksimGSI
 	url = git@github.com:spbu-coding-2024/1-MaksimGSI.git
+[submodule "1-pechenb"]
+	path = 1-pechenb
+	url = git@github.com:spbu-coding-2024/1-pechenb.git
