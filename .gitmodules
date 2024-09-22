@@ -127,3 +127,6 @@
 [submodule "1-VladislavLoikov"]
 	path = 1-VladislavLoikov
 	url = git@github.com:spbu-coding-2024/1-VladislavLoikov.git
+[submodule "1-Nicholas-uni"]
+	path = 1-Nicholas-uni
+	url = git@github.com:spbu-coding-2024/1-Nicholas-uni.git
