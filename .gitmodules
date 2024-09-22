@@ -124,3 +124,6 @@
 [submodule "1-ilq1"]
 	path = 1-ilq1
 	url = git@github.com:spbu-coding-2024/1-ilq1.git
+[submodule "1-VladislavLoikov"]
+	path = 1-VladislavLoikov
+	url = git@github.com:spbu-coding-2024/1-VladislavLoikov.git
