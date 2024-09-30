@@ -142,3 +142,6 @@
 [submodule "1-RannyayaAnastasia"]
 	path = 1-RannyayaAnastasia
 	url = git@github.com:spbu-coding-2024/1-RannyayaAnastasia.git
+[submodule "1-ivanovm-main"]
+	path = 1-ivanovm-main
+	url = git@github.com:spbu-coding-2024/1-ivanovm-main.git
