@@ -145,3 +145,6 @@
 [submodule "1-ivanovm-main"]
 	path = 1-ivanovm-main
 	url = git@github.com:spbu-coding-2024/1-ivanovm-main.git
+[submodule "1-Muhammdmagomedov"]
+	path = 1-Muhammdmagomedov
+	url = git@github.com:spbu-coding-2024/1-Muhammdmagomedov.git
